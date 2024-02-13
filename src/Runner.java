@@ -32,7 +32,7 @@ public class Runner {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		
 		//Create new instance of random number & select random word from String
 		Random number = new Random();
